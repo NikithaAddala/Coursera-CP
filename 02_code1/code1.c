@@ -4,10 +4,8 @@ int max (int num1, int num2)
     {
       printf("%d", num1);
     }
-   else
-    {
-      printf("%d", num2);
-    }
+   else  
+      printf("%d", num2);    
 } 
 int main(void)
 {
