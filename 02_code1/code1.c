@@ -1,4 +1,4 @@
-int max (int num1, int num 2){ 
+int max (int num1, int num2){ 
 {
  if (num1 > num2)
     {
