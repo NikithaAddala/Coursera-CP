@@ -1,10 +1,8 @@
-Grading at Wed Aug 26 07:51:01 UTC 2020
+Grading at Wed Aug 26 07:55:48 UTC 2020
 Checking code1.c for legal syntax
-temp.c: In function ‘max’:
-temp.c:13:1: error: control reaches end of non-void function [-Werror=return-type]
- } 
- ^
-cc1: all warnings being treated as errors
+temp.c:3:28: error: expected ‘;’, ‘,’ or ‘)’ before numeric constant
+ int max (int num1, int num 2){ 
+                            ^
 The code did not have legal syntax!
 
 Overall Grade: F
