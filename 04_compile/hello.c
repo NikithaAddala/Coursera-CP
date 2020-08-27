@@ -1,7 +1,8 @@
 #include<stdio.h>
-#include<stlb.h>
+#include<stlib.h>
 
-int main(){
+int main()
+{
   printf("Hello World\n");
   return EXIT_SUCCESS;
 }
